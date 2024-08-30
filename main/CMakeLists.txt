@@ -1,2 +1,2 @@
-idf_component_register(SRCS "hello_world_main.c"
+idf_component_register(SRCS "smartwatch_assistant_main.c"
                     INCLUDE_DIRS "")
