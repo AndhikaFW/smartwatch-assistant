@@ -10,3 +10,6 @@
 [submodule "lib/lvgl"]
 	path = lib/lvgl
 	url = https://github.com/lvgl/lvgl.git
+[submodule "lib/NimBLE-Arduino"]
+	path = lib/NimBLE-Arduino
+	url = https://github.com/h2zero/NimBLE-Arduino.git
