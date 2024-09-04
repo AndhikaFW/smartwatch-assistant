@@ -4,3 +4,6 @@
 [submodule "lib/Qmi8658c"]
 	path = lib/Qmi8658c
 	url = https://github.com/ALICHOUCHENE/Qmi8658c.git
+[submodule "lib/ESP32Time"]
+	path = lib/ESP32Time
+	url = https://github.com/fbiego/ESP32Time.git
