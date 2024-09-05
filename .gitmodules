@@ -13,3 +13,6 @@
 [submodule "lib/NimBLE-Arduino"]
 	path = lib/NimBLE-Arduino
 	url = https://github.com/h2zero/NimBLE-Arduino.git
+[submodule "lib/Timber"]
+	path = lib/Timber
+	url = https://github.com/fbiego/Timber.git
